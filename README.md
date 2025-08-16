@@ -2,7 +2,7 @@
   <img src="assets/darto_module.png" alt="Darto Module" height="200" />
 </div>
 
-<h1 align="center">Darto Modular</h1>
+<h1 align="center">Darto Module</h1>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
