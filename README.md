@@ -67,7 +67,6 @@ class HealthModule extends DartoModule {
 ```dart
 void main() async {
   final app = Darto();
-  await _initialize();
 
   app.use('/health-check', HealthModule().init);
 
