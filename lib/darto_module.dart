@@ -1,4 +1,4 @@
-library darto_modular;
+library darto_module;
 
 export 'src/injector.dart';
 export 'src/module.dart';

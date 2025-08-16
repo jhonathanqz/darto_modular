@@ -1,7 +1,7 @@
-name: darto_modular
+name: darto_module
 description: "Darto Module is an extension for darto that adds support for modular architecture, dependency injection, and automatic route/service organization in a more scalable way"
 version: 0.0.1
-homepage: https://github.com/jhonathanqz/darto_modular
+homepage: https://github.com/jhonathanqz/darto_module
 
 environment:
   sdk: ^3.8.1

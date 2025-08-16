@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="assets/darto_modular.png" alt="Darto Module" height="200" />
+  <img src="assets/darto_module.png" alt="Darto Module" height="200" />
 </div>
 
 <h1 align="center">Darto Modular</h1>
@@ -39,7 +39,7 @@ Add to your `pubspec.yaml`:
 ```yaml
 dependencies:
   darto: any
-  darto_modular: any
+  darto_module: any
 ```
 
 ## :checkered_flag: Getting Started
