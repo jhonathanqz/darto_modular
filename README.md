@@ -39,7 +39,7 @@ Add to your `pubspec.yaml`:
 ```yaml
 dependencies:
   darto: any
-  darto_module: any
+  darto_modular: any
 ```
 
 ## :checkered_flag: Getting Started
