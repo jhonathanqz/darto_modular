@@ -1,0 +1,21 @@
+name: darto_modular
+description: "Darto Module is an extension for darto that adds support for modular architecture, dependency injection, and automatic route/service organization in a more scalable way"
+version: 0.0.1
+homepage: https://github.com/jhonathanqz/darto_modular
+
+environment:
+  sdk: ^3.8.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  darto: ^0.0.31
+  injectfy: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
